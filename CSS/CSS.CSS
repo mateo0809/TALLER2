@@ -29,3 +29,10 @@
    margin-left: 35%;
 
 }
+
+#footer {
+
+    margin: 0 auto;
+    color: rgb(73, 73, 73);
+    margin-bottom: 20px;
+}
